@@ -68,6 +68,18 @@ integration.
 </details>
 
 <details>
+<summary><b>🔹 T-DJI-DRINK — Cashier Dashboard for Tea Sales (Laravel)</b></summary>
+<br>
+
+A point-of-sale (POS) cashier dashboard built with Laravel for managing tea beverage sales. 
+Full CRUD functionality covering product management, revenue/income tracking, and order 
+queue management for daily sales operations.
+
+`Laravel` `PHP` `MySQL` `CRUD`
+
+</details>
+
+<details>
 <summary><b>🔹 East Java Waste Data Clustering Dashboard</b></summary>
 <br>
 
