@@ -27,6 +27,7 @@ for client CLEON — from full-stack development to technical documentation and 
 🌱 Exploring            : K-Means clustering & interactive dashboards with Chart.js
 💬 Ask me about         : PHP, MySQL, database troubleshooting, Figma UI/UX
 📫 Reach me at          : devierahmandapm@gmail.com
+🌐 Portfolio            : dvrahmanda.github.io/PORTOFOLIO
 ```
 
 ---
@@ -97,6 +98,7 @@ deployed via Flask on PythonAnywhere.
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dvrahmanda.github.io/PORTOFOLIO/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devie-rahmanda-patricia-maharani-2411283b3)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dvrahmanda)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devierahmandapm@gmail.com)
