@@ -1,92 +1,197 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:1e90ff&height=200&section=header&text=Hi,%20I'm%20Devie%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20UI/UX%20Designer%20%7C%20Informatics%20Student&descAlignY=55&descSize=18" width="100%"/>
+<!-- ======================= PIXEL ADVENTURE HEADER ======================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0716,25:b76bff,55:29b6f6,78:2ee66b,100:ffd23f&height=230&section=header&text=DEVIE%20RAHMANDA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=PLAYER%2001%20%E2%80%A2%20WEB%20DEVELOPER%20%E2%80%A2%20UI%2FUX%20DESIGNER&descAlignY=57&descSize=16" width="100%" alt="Devie Rahmanda Header"/>
 
-<!-- Typing animation -->
+<!-- ======================= TYPING ANIMATION ======================= -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=600&lines=Building+web+solutions+with+PHP+%26+Laravel;Data+enthusiast+%7C+K-Means+Clustering;Currently+developing+ISP+Billing+System" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2600&pause=850&color=FFD23F&center=true&vCenter=true&width=900&height=65&lines=BUILDING+WEB+SYSTEMS+WITH+PHP+%2B+LARAVEL;DESIGNING+USER-FRIENDLY+INTERFACES+IN+FIGMA;EXPLORING+DATA+SCIENCE+%2B+DASHBOARD+VISUALIZATION;CURRENT+QUEST%3A+BILLING+SALAM+%2F+UKOOMED" alt="Typing Introduction"/>
 </a>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATE-2EE66B?style=for-the-badge&labelColor=0A0716" alt="Open to Collaborate"/>
+<img src="https://img.shields.io/badge/LOCATION-BLITAR%2C%20EAST%20JAVA-29B6F6?style=for-the-badge&labelColor=0A0716" alt="Location"/>
+<img src="https://komarev.com/ghpvc/?username=dvrahmanda&label=PROFILE%20VIEWS&color=B76BFF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-### 👩‍💻 About Me
+## 🍄 PLAYER PROFILE
 
-Informatics Management student at Politeknik Negeri Malang (PSDKU Kediri), 
-building web solutions with **PHP, Laravel & MySQL** — with a growing interest 
-in **Data Science** and interactive dashboard visualization.
+Hi! I’m **Devie Rahmanda Patricia Maharani**, an Informatics Management student at **Politeknik Negeri Malang — PSDKU Kediri** with a strong interest in **Web Development** and **UI/UX Design**.
 
-Currently doing my internship (PKL) at **Life Media (PT Sarana Insan Muda Selaras)**, 
-developing a multi-region customer billing system called **Billing Salam / UKOOMED** 
-for client CLEON — from full-stack development to technical documentation and system design.
+I enjoy turning ideas and wireframes into functional digital products—from designing interfaces in **Figma** to developing complete web systems using **PHP, Laravel, JavaScript, and MySQL**.
+
+I am also expanding my skills in **Data Science**, dashboard visualization, and Android development.
+
+<table>
+  <tr>
+    <td><b>🎓 Education</b></td>
+    <td>D3 Informatics Management — Politeknik Negeri Malang, PSDKU Kediri</td>
+  </tr>
+  <tr>
+    <td><b>💼 Current Quest</b></td>
+    <td>Web Developer Intern at Life Media — PT Sarana Insan Muda Selaras</td>
+  </tr>
+  <tr>
+    <td><b>🛠️ Main Focus</b></td>
+    <td>Web Development, UI/UX Design, and Database Systems</td>
+  </tr>
+  <tr>
+    <td><b>🌱 Exploring</b></td>
+    <td>Data Science, K-Means Clustering, Chart.js, and Interactive Dashboards</td>
+  </tr>
+  <tr>
+    <td><b>📍 Base</b></td>
+    <td>Blitar, East Java — Open to Remote and On-site Opportunities</td>
+  </tr>
+</table>
 
 ```text
-🔭 Currently working on : Superadmin billing dashboard & user manual documentation
-🌱 Exploring            : K-Means clustering & interactive dashboards with Chart.js
-💬 Ask me about         : PHP, MySQL, database troubleshooting, Figma UI/UX
-📫 Reach me at          : devierahmandapm@gmail.com
-🌐 Portfolio            : dvrahmanda.github.io/PORTOFOLIO
+╔══════════════════════════════ QUEST LOG ══════════════════════════════╗
+║ 🔭 Working on  : Billing Salam / UKOOMED and technical documentation ║
+║ 🎨 Designing   : User-friendly interfaces and interactive dashboards ║
+║ 🌱 Learning    : Data Science, visualization, and Android development ║
+║ 💬 Ask me about: PHP, Laravel, MySQL, Figma, and system design         ║
+║ 📫 Contact     : devierahmandapm@gmail.com                             ║
+╚════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-### 🛠️ Tech Stack
+## 🧰 INVENTORY — TECH STACK
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=php,mysql,python,js,html,css,laravel,flask,figma,git,github,vscode&theme=dark" />
+
+### Web Development & Database
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,mariadb&theme=dark" alt="Web Development Skills"/>
+
+### Programming, Mobile & Data
+
+<img src="https://skillicons.dev/icons?i=python,kotlin,androidstudio&theme=dark" alt="Programming and Mobile Skills"/>
+
+### Design & Development Tools
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" alt="Design and Development Tools"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 🏰 PROJECT SELECT
 
-<div align="center">
-<img height="165" src="https://github-readme-stats-zeta-one-77.vercel.app/api?username=dvrahmanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-zeta-one-77.vercel.app/api/top-langs/?username=dvrahmanda&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dvrahmanda&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 📌 Featured Projects
-
-<details open>
-<summary><b>🔹 Billing Salam / UKOOMED — ISP Billing Management System</b></summary>
-<br>
-
-Multi-region customer billing system built with PHP & MySQL for client CLEON. 
-Features a superadmin dashboard with data-driven SVG maps, custom Canvas API 
-donut charts, role-based access (Admin/Superadmin), and thermal printer receipt 
-integration.
-
-`PHP` `MySQL` `JavaScript` `Canvas API`
-
-</details>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🪙 Billing Salam / UKOOMED</h3>
+      <p><b>Multi-Region ISP Billing Management System</b></p>
+      <p>
+        A PHP and MySQL billing system developed with an internship team
+        to manage internet customers across multiple service regions.
+      </p>
+      <p><b>Main Features:</b></p>
+      <ul>
+        <li>Admin and Superadmin role-based access</li>
+        <li>Multi-region customer management</li>
+        <li>Data-driven SVG service-area map</li>
+        <li>Custom Canvas API dashboard charts</li>
+        <li>Billing reports and thermal receipt printing</li>
+        <li>Technical documentation and user manual</li>
+      </ul>
+      <code>PHP</code>
+      <code>MySQL</code>
+      <code>JavaScript</code>
+      <code>Canvas API</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧋 T-DJI Drink</h3>
+      <p><b>Laravel Cashier & Point-of-Sale Dashboard</b></p>
+      <p>
+        A cashier dashboard for managing tea beverage sales
+        and daily store operations.
+      </p>
+      <p><b>Main Features:</b></p>
+      <ul>
+        <li>Complete product CRUD</li>
+        <li>Sales and income tracking</li>
+        <li>Daily transaction reports</li>
+        <li>Order queue management</li>
+      </ul>
+      <code>Laravel</code>
+      <code>PHP</code>
+      <code>MySQL</code>
+      <code>CRUD</code>
+      <br><br>
+      <a href="https://github.com/dvrahmanda/UAS-T-DJI-DRINK">
+        <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A0716?style=for-the-badge&logo=github&logoColor=FFD23F" alt="T-DJI Drink Repository"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Gas & Water Gallon Sales</h3>
+      <p><b>Android Sales Management Application</b></p>
+      <p>
+        A mobile application for recording daily gas and water-gallon
+        transactions and producing simple sales recaps.
+      </p>
+      <p><b>Main Features:</b></p>
+      <ul>
+        <li>Daily transaction recording</li>
+        <li>Product and sales management</li>
+        <li>Simple transaction recap</li>
+      </ul>
+      <code>Kotlin</code>
+      <code>Android Studio</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚚 AgenLog</h3>
+      <p><b>Logistics Transaction & Scheduling System</b></p>
+      <p>
+        A role-based Laravel logistics system for handling shipments,
+        courier schedules, tracking, and operational reports.
+      </p>
+      <p><b>Main Features:</b></p>
+      <ul>
+        <li>Admin, Operator, and Courier access</li>
+        <li>Automatic tracking number generation</li>
+        <li>Public package-status tracking</li>
+        <li>Greedy First-Fit courier scheduling</li>
+        <li>Shipping cost calculation and CSV reports</li>
+      </ul>
+      <code>Laravel</code>
+      <code>PHP</code>
+      <code>MySQL</code>
+      <code>Greedy Algorithm</code>
+      <br><br>
+      <a href="https://github.com/dvrahmanda/WebsiteAgenLogistik">
+        <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A0716?style=for-the-badge&logo=github&logoColor=FFD23F" alt="AgenLog Repository"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><b>🔹 T-DJI-DRINK — Cashier Dashboard for Tea Sales (Laravel)</b></summary>
+<summary><b>⭐ Side Quest — East Java Waste Data Clustering</b></summary>
+
 <br>
 
-A point-of-sale (POS) cashier dashboard built with Laravel for managing tea beverage sales. 
-Full CRUD functionality covering product management, revenue/income tracking, and order 
-queue management for daily sales operations.
+An interactive dashboard for exploring **K-Means clustering** results from waste-management data across regencies and cities in East Java.
 
-`Laravel` `PHP` `MySQL` `CRUD`
-
-</details>
-
-<details>
-<summary><b>🔹 East Java Waste Data Clustering Dashboard</b></summary>
-<br>
-
-Interactive single-page dashboard analyzing K-Means clustering on waste management 
-data across 37 regencies/cities in East Java. Built with Python, Chart.js, and 
-deployed via Flask on PythonAnywhere.
+**Focus:** Data preprocessing, clustering analysis, visual interpretation, and interactive dashboard presentation.
 
 `Python` `K-Means` `Chart.js` `Flask`
 
@@ -94,15 +199,104 @@ deployed via Flask on PythonAnywhere.
 
 ---
 
-### 🌐 Connect with Me
+## 🚩 EXPERIENCE CHECKPOINTS
+
+### 💻 Web Developer Intern
+
+**Life Media — PT Sarana Insan Muda Selaras**  
+June 2026 — Present
+
+- Develop and improve the **Billing Salam / UKOOMED** web system.
+- Audit code and fix issues in payment and Superadmin dashboard modules.
+- Support full-stack development, database handling, and system design.
+- Create user manuals and technical documentation.
+- Create thermal-printer setup and usage guidance.
+
+### 🏦 General Treasurer
+
+**English Club — Politeknik Negeri Malang, PSDKU Kediri**  
+May 2025 — Present
+
+- Manage organizational financial administration and transaction records.
+- Coordinate with committee members in executing organizational programs.
+- Prepare financial reports and documentation.
+
+### 📦 Advocacy Department Member
+
+**English Club — Politeknik Negeri Malang, PSDKU Kediri**  
+November 2025 — Present
+
+- Manage organization inventory.
+- Maintain organization member data.
+- Support member-related organizational activities.
+
+---
+
+## 🏅 ACHIEVEMENTS UNLOCKED
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dvrahmanda.github.io/PORTOFOLIO/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devie-rahmanda-patricia-maharani-2411283b3)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dvrahmanda)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devierahmandapm@gmail.com)
+| Certificate | Issuer | Earned |
+|:---|:---|:---:|
+| **Python Essentials 1** | Cisco Networking Academy × Python Institute | August 29, 2025 |
+| **Introduction to Data Science** | Cisco Networking Academy | May 13, 2025 |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:6a5acd&height=100&section=footer" width="100%"/>
+---
+
+## 📊 PLAYER STATISTICS
+
+<div align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dvrahmanda&theme=tokyonight" alt="Devie's GitHub Statistics"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dvrahmanda&theme=tokyonight" alt="Devie's Most Used Languages"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dvrahmanda&theme=tokyonight" width="96%" alt="Devie's GitHub Profile Summary"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dvrahmanda&bg_color=0a0716&color=e9e6f7&line=2ee66b&point=ffd23f&area=true&hide_border=true" width="96%" alt="Devie's GitHub Activity Graph"/>
+
+</div>
+
+---
+
+## 💌 SEND A MESSAGE
+
+<div align="center">
+
+<p>
+  Open to project collaborations, internship opportunities,
+  and discussions about web development, UI/UX, and digital-product development.
+</p>
+
+<a href="https://dvrahmanda.github.io/PORTOFOLIO/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-FFD23F?style=for-the-badge&logo=googlechrome&logoColor=0A0716" alt="Portfolio"/>
+</a>
+
+<a href="https://www.linkedin.com/in/devie-rahmanda-patricia-maharani-2411283b3">
+  <img src="https://img.shields.io/badge/LINKEDIN-29B6F6?style=for-the-badge&logo=linkedin&logoColor=0A0716" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/dvrahmanda">
+  <img src="https://img.shields.io/badge/GITHUB-B76BFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://instagram.com/dvrahmanda">
+  <img src="https://img.shields.io/badge/INSTAGRAM-FF3355?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="mailto:devierahmandapm@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-2EE66B?style=for-the-badge&logo=gmail&logoColor=0A0716" alt="Gmail"/>
+</a>
+
+<br><br>
+
+<code>THANK YOU FOR VISITING — PRESS ⭐ TO CONTINUE</code>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd23f,25:2ee66b,55:29b6f6,78:b76bff,100:0a0716&height=120&section=footer" width="100%" alt="Footer"/>
